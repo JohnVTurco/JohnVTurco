@@ -18,7 +18,7 @@ Software Engineering student at the **University of Waterloo** (graduating Apr 2
 **Example PRs:**
 - [#12534](https://github.com/warpdotdev/warp/pull/12534) · Core pinning model for tabs and groups, with tests
 - [#13056](https://github.com/warpdotdev/warp/pull/13056) · Group-aware drag and drop for panes, resolving drop targets from cursor geometry
-- [#12753](https://github.com/warpdotdev/warp/pull/12753) · Keep tab groups intact when dragging tabs between windows
+- [#12753](https://github.com/warpdotdev/warp/pull/12753) · Cross window dragging bug fixes
 - [#12677](https://github.com/warpdotdev/warp/pull/12677) · Restore tabs on relaunch without breaking pinning or group order
 
 📫 [LinkedIn](https://www.linkedin.com/in/johnturco2/) · jvturco@uwaterloo.ca
