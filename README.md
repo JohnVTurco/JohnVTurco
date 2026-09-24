@@ -2,7 +2,7 @@
 
 Software Engineering student at the **University of Waterloo** (graduating Apr 2027), focused on platform and product engineering.
 
-**Experience:** [Warp](https://www.warp.dev/) (AI agent platform + product engineering) · [Shopify](https://www.shopify.com/) (mobile) · WOLF Advanced Technology (robotics ML) · [Ford](https://www.ford.com/) (in-car software) · Microsys (full-stack SaaS)
+**Experience:** [Warp](https://www.warp.dev/) (AI agent platform + product engineering) · [Shopify](https://www.shopify.com/) (mobile) · WOLF Advanced Technology (robotics ML) · [Ford](https://www.ford.com/) (in-car software) · [Microsys](https://microsysinc.ca/) (full-stack SaaS)
 
 **Languages & tools:** Go · Rust · TypeScript · React · Python · Java · PostgreSQL · GraphQL
 
