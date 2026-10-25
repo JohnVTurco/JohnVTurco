@@ -1,6 +1,6 @@
 ### Hi, I'm John
 
-Software Engineering student at the **University of Waterloo** (graduating Apr 2027), focused on platform and product engineering.
+Software Engineering student at the **University of Waterloo**, focused on platform and product engineering.
 
 **Experience:** [Warp](https://www.warp.dev/) (AI agent platform + product engineering) · [Shopify](https://www.shopify.com/) (mobile) · WOLF Advanced Technology (robotics ML) · [Ford](https://www.ford.com/) (in-car software) · [Microsys](https://microsysinc.ca/) (full-stack SaaS)
 
